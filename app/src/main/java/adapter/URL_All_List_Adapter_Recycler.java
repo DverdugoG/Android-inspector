@@ -9,7 +9,7 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.bimbask.barcodescanner.MainActivity;
+import com.lind.barcodescanner.MainActivity;
 import com.bimbask.barcodescanner.R;
 
 import java.util.ArrayList;
