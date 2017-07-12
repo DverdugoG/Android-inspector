@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="black_alpha_40">#66000000</color>
+    <color name="crop__button_bar">#f3f3f3</color>
+    <color name="crop__button_text">#666666</color>
+    <color name="crop__selector_pressed">#1a000000</color>
+    <color name="crop__selector_focused">#77000000</color>
+
+    <color name="highlight">#f3f3f3</color>
+
+    <color name="color_question_empty">#646464</color>
+    <color name="black_chat">#313131</color>
+
+    <color name="auto_link_left">#2f6699</color>
+
+      <color name="green_android">#009688</color>
+      <color name="horizontal_divider">#8f8f8f</color>
+	  <color name="horizontal_vertical">#8f8f8f</color>
+    
+      <color name="azul_perfile">#3F51B5</color>
+	  <color name="rojo_perfile">#F44336</color>
+      <color name="purpura_perfile">#2196F3</color>
+
+    <color name="verde_perfile">#009688</color>
+    <!-- <color name="verde_perfile">#4CAF50</color> -->
+      <color name="naranjo_perfile">#FF8800</color>
+      
+      <color name="plomo_emoticon">#808080</color>
+      
+      <color name="azul_playlist">#3F51B5</color><!-- AZUL INDIGO -->
+  	  <color name="rojo_playlist">#F44336</color>
+    <color name="green_elegant_playlist">#009688</color>
+
+      <color name="purpura_playlist">#2196F3</color><!-- CELESTE -->
+      <color name="verde_playlist">#4CAF50</color>
+      <color name="naranjo_playlist">#FF8800</color>
+    
+         <color name="blue_message">#0d47a1</color> 
+       <color name="stacked_green_">#066d95</color>
+      <color name="stacked_green">#FCFCFC</color>
+      <color name="accent_green">#646464</color>
+      <color name="pressed">#066d95</color>
+      <color name="black_trip"> #808080</color>
+      <color name="blue">#ff2570ba</color>
+   	  <color name="yellow_1">#FFCC00</color>
+      <color name="grey">#f7f7f7</color>
+      <color name="plomo">#b3b3b3</color>
+    <color name="plomo_chat">#7d7d7d</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_f1">#f1f1f1</color>
+
+    <color name="horizontal_vertical_">#066d95</color>
+        <color name="white1_transparent">#80e7e7e7</color>
+      <color name="white_transparent">#80FFFFFF</color>
+      <color name="black1_">#646464</color>
+      <color name="black1">#055b7c</color>
+    <color name="black1_status_bar">#04516f</color>
+      <color name="black1_transparent">#d9077fad</color> 
+      <color name="black1_transparent_widget">#B3646464</color> 
+      <color name="black1_test">#9f9f9f</color>
+      <color name="black">#000000</color>
+
+    <color name="youtube">#db2724</color>
+      <color name="orange_android">#077fad</color>
+        <color name="orange_android_select">#CC077fad</color>
+        <color name="orange_android_transparent__">#aab3b3b3</color>
+      <color name="orange_android_transparent">#CCd1d1d1</color>
+    <color name="orange_android_spinner">#d1d1d1</color>
+   <!-- <color name="orange_android_transparent">#CCb3b3b3</color>-->
+
+    <color name="orange_android_transparent_new">#CCe0dddd</color>
+    <color name="orange_android_transparent_widget">#B30d47a1</color>
+      <color name="orange_android_chat">#ffc889</color>
+
+    <color name="white1_initial">#fafafa</color>
+      <color name="white1">#e7e7e7</color>
+    <color name="white01">#f7f7f7</color>
+    <color name="white2">#cfcfcf</color>
+    <color name="white3">#e3e3e3</color>
+
+	  <color name="transparent">#00000000</color>
+	  <color name="background_selected">#808080</color>
+      <color name="soft_grey_select_top">#e0dddd</color>
+      <color name="soft_grey_split">#d0d0d0</color>
+      <color name="soft_grey">#777</color>
+      <color name="soft_grey_choose">#aaa</color>
+      <color name="aa">#ff007de3</color>
+
+    <!-- Shadow -->
+    <color name="zeroth_shadow">#00CCCCCC</color>
+    <color name="first_shadow">#10CCCCCC</color>
+    <color name="second_shadow">#20CCCCCC</color>
+    <color name="third_shadow">#30CCCCCC</color>
+    <color name="fourth_shadow">#50CCCCCC</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary_protem">#007abd</color>
+    <color name="colorPrimaryDark_protem">#006daa</color>
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+
+</resources>

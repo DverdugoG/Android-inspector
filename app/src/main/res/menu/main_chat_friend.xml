@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:edit_Beat_bask_13_01="http://schemas.android.com/apk/res-auto" >
+
+    <item android:id="@+id/action_enviar"
+        android:title="@string/enviar"
+        edit_Beat_bask_13_01:showAsAction="always" />
+    
+</menu>
